@@ -1,1 +1,27 @@
 Inicio del proyecto
+AMIGO SECRETO 
+Trabajo de Oracle One primer entregable
+Proyecto en HTML JavaScript que permite realizar un sorteo de "Amigo Secreto" de manera aleatoria.
+Caracteristicas:
+1. Es posible agregar nombres de los participantes nde manera ilimitada.
+2. Se implementó la verificacion de nombres duplicados.
+3. Realiza un sorteo aleatorio.
+4. Reinicia la lista de pamigos después del sorteo así como el array donde se ha guardado.
+
+Instalación
+1. Clone el repositorio o descargue los archivos.
+2. Asegúrate de tener un navegador actualizado.
+3. Abre el archivo index.html en tu navegador.
+
+Uso:
+1. Escribe el nombre del participante y haz click en "Añadir", necesitas al menos dos participantes.
+2. Cuando hayas temrinado, presiona "Sortear amigo".
+3. Se mostratrá el resultado del amigo sorteado, adema´s la lsita de amigos se reiniciará de manera inmediata.
+
+
+Tecnologías:
+1. HTML.
+2. JavaScript.
+3. CSS.
+Autor:
+Miguel Chumbiriza S.
